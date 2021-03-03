@@ -1,3 +1,10 @@
-#hi
+import tkinter
+from tkinter import *
 
-print()
+root=tkinter.Tk()
+
+"""
+This is main screen
+"""
+
+root.mainloop()
